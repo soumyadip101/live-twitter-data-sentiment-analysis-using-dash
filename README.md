@@ -21,7 +21,8 @@ This application analyzes the sentiments of live tweets from twitter by classify
 - `TWITTER_APP_KEY`
 - `TWITTER_APP_SECRET`
 
-- Run `twitter_stream.py` to build database
-- If you're using this locally, you can run the application with the `dev_server.py` script
+> Run `twitter_stream.py` to build database
 
-- You might need the latest version of sqlite.
+> If you're using this locally, you can run the application with the `dev_server.py` script
+
+> You might need the latest version of sqlite.
