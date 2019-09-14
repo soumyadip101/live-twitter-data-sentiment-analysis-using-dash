@@ -1,6 +1,6 @@
 # live-twitter-data-sentiment-analysis-using-dash
 
-This application analyzes the sentiments of live tweets from twitter by classifying them as positive and negative tweets using TextBlob and then visualizes the live sentiment trend of the search words using a dashboard build using Python's Dash.
+This application analyzes the sentiments of live tweets from twitter by classifying them as positive and negative tweets using VaderSentiment and then visualizes the live sentiment trend of the search words using a dashboard build using Python's Dash.
 
 - `tweepy` library is used for tweet extraction using a Twitter API
 - `textblob` library is used for sentiment analysis using the tweets
